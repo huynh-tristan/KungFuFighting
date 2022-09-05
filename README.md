@@ -1,2 +1,2 @@
 # KungFuFighting
-A training simulator
+A training simulator for Kung Fu Tea
